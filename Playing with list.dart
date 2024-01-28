@@ -14,4 +14,11 @@ void main(){
   myList.insert(0, 'AA');
   print(myList);
 
+  // change index
+  myList[1] = 'BB';
+  print(myList);
+
+
+
+
 }
