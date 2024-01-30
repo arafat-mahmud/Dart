@@ -14,7 +14,7 @@ class Father {
   }
 
   methodTwo() {
-    print('This is method 2');  // It is now not working because 'override'
+    print('This is method 2'); // It is now not working because 'override'
   }
 }
 
