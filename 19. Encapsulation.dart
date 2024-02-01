@@ -1,5 +1,7 @@
+import '19.1. Example.dart';
+
 void main() {
   var obj = Example();
-  obj.setAge = 22;
-  print(obj.age);
+  obj.setAge = 50;
+  print(obj.getAge);
 }

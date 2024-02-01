@@ -1,10 +1,10 @@
 class Example {
-  int? _age;
+  int? _age;          // _ its means age is private
   set setAge(int a) {
     _age = a;
   }
 
-  get getage {
+  get getAge {
     return _age;
   }
 }
