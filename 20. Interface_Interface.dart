@@ -1,7 +1,5 @@
 void main(){
 
-
-
 }
 
 class A{
